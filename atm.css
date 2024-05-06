@@ -1,0 +1,21 @@
+body {
+  display: flexbox;
+  background-color: #ff002b;
+  margin: 5%;
+  padding: 5%;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+button {
+  background-color: rgba(21, 92, 139);
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 100px;
+  margin: 5px;
+}
+form {
+  background-color: azure;
+  border-radius: 10px;
+}
